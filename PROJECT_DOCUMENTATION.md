@@ -1,7 +1,7 @@
 ================================================================================
                     NEUROINSPECT - PROJECT DOCUMENTATION
             AI-Powered Industrial Defect Detection System
-                    Version 1.0.0 | December 2024
+                    Version 1.0.0 | December 2025
 ================================================================================
 
 
